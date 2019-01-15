@@ -1,0 +1,28 @@
+body {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color:LightSlateGray;
+}
+
+
+p {
+  align-items: left;
+  font-size: 28px
+}
+
+.jumbotron {
+  display: flex;
+  background-image: url('http://www.sfvacc.org/resources/Pictures/RoPaSc%20Logo.jpg');
+  background-size: cover;
+  /* color: #ffffff; */
+  height: 300px;
+}
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+  margin: 20px;
+}
+
+.btn.btn-primary {
+  align-items: center;
+}
